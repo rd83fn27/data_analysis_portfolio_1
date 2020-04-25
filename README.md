@@ -1,11 +1,11 @@
-Hello and welcome to my data analysis portfolio
+# Welcome to my Data Analysis Portfolio
 
 This portfolio contains three parts
 1. Creating messy data
 2. Cleaning messy data
 3. Analysis of the cleaned data
 
-# Part 1 - Creating messy data sets
+## Part 1 - Creating messy data sets
 
 Hello and welcome to part one of my data portfolio.
 
@@ -21,4 +21,4 @@ The code produces a pair of data sets that have issues with
 
 Feel free to browse the code.
 
-# Part 2 - Cleaning the messy data
+## Part 2 - Cleaning the messy data
