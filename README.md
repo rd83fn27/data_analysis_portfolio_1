@@ -5,6 +5,7 @@ This portfolio contains three parts
 2. Cleaning messy data
 3. Analysis of the cleaned data
 
+
 ## Part 1 - Creating messy data sets
 
 Hello and welcome to part one of my data portfolio.
@@ -21,4 +22,13 @@ The code produces a pair of data sets that have issues with
 
 Feel free to browse the code.
 
-## Part 2 - Cleaning the messy data
+
+## Part 2 - Cleaning the messy data sets
+
+This is the second of a three part portfolio and contains the methods I used to clean the messy data sets.
+
+The description here is basic as the code itself has a lot of annotation.
+
+At the end of part two the data sets have been cleaned and merged into a single data set.
+
+## Part 3 - Analysis of the data set
