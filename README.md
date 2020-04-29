@@ -31,4 +31,17 @@ The description here is basic as the code itself has a lot of annotation.
 
 At the end of part two the data sets have been cleaned and merged into a single data set.
 
+
 ## Part 3 - Analysis of the data set
+
+This is the third of a three part portfolio and contains the methods and graphs I use in order to explore the cleaned data set.
+
+The description here is basic as the code itself has a lot of annotation.
+
+At the beginning of part three the aims of the section are listed, and by the end a conclusion is found.
+
+
+## External packages used
+[Numpy](https://numpy.org/) - [Numpy License](https://numpy.org/license.html#license)
+[Pandas](https://pandas.pydata.org/) - [Pandas License](https://pandas.pydata.org/docs/getting_started/overview.html?highlight=license#license)
+[Matplotlib](https://matplotlib.org/) - [Matplotlib License](https://matplotlib.org/users/license.html)
