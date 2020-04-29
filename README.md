@@ -42,6 +42,6 @@ At the beginning of part three the aims of the section are listed, and by the en
 
 
 ## External packages used
-[Numpy](https://numpy.org/) - [Numpy License](https://numpy.org/license.html#license)
-[Pandas](https://pandas.pydata.org/) - [Pandas License](https://pandas.pydata.org/docs/getting_started/overview.html?highlight=license#license)
-[Matplotlib](https://matplotlib.org/) - [Matplotlib License](https://matplotlib.org/users/license.html)
+[Numpy](https://numpy.org/) - [Numpy License](https://numpy.org/license.html#license) <br>
+[Pandas](https://pandas.pydata.org/) - [Pandas License](https://pandas.pydata.org/docs/getting_started/overview.html?highlight=license#license) <br>
+[Matplotlib](https://matplotlib.org/) - [Matplotlib License](https://matplotlib.org/users/license.html) <br>
